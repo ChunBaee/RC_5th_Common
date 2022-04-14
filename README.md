@@ -18,3 +18,7 @@
 ## 에러사항
 
 💢 너무 버벅거림이 심하다.. 초기화면의 RecyclerView 조차도..
+
+![Screenshot_20220211-181753_RC_Mission_5](https://user-images.githubusercontent.com/80454599/163403401-6054d304-4422-4731-a79f-de2f40d70db3.jpg)
+![Screenshot_20220211-181801_RC_Mission_5](https://user-images.githubusercontent.com/80454599/163403414-4e8909d6-49f5-445f-bd52-1be30f713f47.jpg)
+![Screenshot_20220211-181812_RC_Mission_5](https://user-images.githubusercontent.com/80454599/163403419-a66132ce-1827-4911-bba7-2236e90a5e44.jpg)
